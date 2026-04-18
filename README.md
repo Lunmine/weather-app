@@ -24,9 +24,3 @@ It allows users to search for real-time weather information by city name.
 - JavaScript (Vanilla JS)
 - OpenWeather API
 
----
-
-## 📸 Preview
-
-*(Add a screenshot of your app here)*  
-Example:
